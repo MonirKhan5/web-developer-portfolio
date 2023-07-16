@@ -4,6 +4,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
 }
 /* shared styles*/
 /* body{
@@ -46,4 +47,17 @@ nav a{
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
 
+}
+
+.header{
+    background: #FFF8F3;
+}
+.banner{
+    padding: 30px 30px 30px 150px ;
+    display: flex;
+    align-items: center;
+}
+.profile-pic{
+    width: 400px;
+height: 400px;
 }
